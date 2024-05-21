@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<!--    <item-->
+<!--        android:id="@+id/search"-->
+<!--        android:title="Search"-->
+<!--        tools:ignore="HardcodedText"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:icon="@drawable/ic_baseline_search_24" />-->
+
+
+
+        <!-- Submenu -->
+
+
+<!--            <item android:id="@+id/group" android:title="Group"-->
+<!--                android:icon="@drawable/ic_baseline_list_24"-->
+<!--                tools:ignore="HardcodedText"/>-->
+<!--            <item android:id="@+id/schedule" android:title="Schedule SMS"-->
+<!--                android:icon="@drawable/ic_baseline_message_24"-->
+<!--                tools:ignore="HardcodedText"/>-->
+<!--            <item android:id="@+id/message" android:title="Message"-->
+<!--                android:icon="@drawable/ic_baseline_message_24"-->
+<!--                tools:ignore="HardcodedText"/>-->
+
+            <item android:id="@+id/media"
+                android:icon="@drawable/ic_baseline_library_music_24"
+                tools:ignore="MenuTitle"
+                />
+<!--    <item android:id="@+id/home"-->
+<!--        android:icon="@drawable/ic_baseline_home_24"-->
+<!--        tools:ignore="MenuTitle" />-->
+
+    <item android:id="@+id/animations" android:title="Animations"
+        android:icon="@drawable/ic_baseline_animation_24"
+        tools:ignore="HardcodedText"/>
+
+    <item android:id="@+id/profile" android:title="Profile"
+        android:icon="@drawable/ic_baseline_man_24"
+        tools:ignore="HardcodedText"/>
+
+            <item android:id="@+id/hardware"
+                android:icon="@drawable/ic_baseline_settings_24" tools:ignore = "MenuTitle" />
+
+<!--    <item android:id="@+id/hardware"-->
+<!--        android:icon="@drawable/ic_baseline_settings_24"-->
+<!--        tools:ignore="MenuTitle" />-->
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_logout_24"
+        tools:ignore="MenuTitle"/>
+        </menu>
+

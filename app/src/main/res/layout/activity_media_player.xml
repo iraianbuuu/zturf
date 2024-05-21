@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".multimedia.MediaPlayerApp">
+
+    <LinearLayout
+        android:id="@+id/wrapper_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+
+     <ImageView
+         android:layout_width="300dp"
+         android:layout_height="300dp"
+         android:src="@drawable/weeknd"
+         android:layout_marginBottom="40dp"/>
+
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        />
+
+    <LinearLayout
+        android:gravity="center"
+        android:id="@+id/wrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/play"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:src="@drawable/ic_baseline_play_arrow_24"
+            />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pause"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:src="@drawable/ic_baseline_pause_24"
+            />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:src="@drawable/ic_baseline_stop_24"
+            />
+
+    </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

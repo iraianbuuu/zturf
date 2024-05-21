@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+<!--    <item android:id="@+id/hardware" android:title="Hardware Support"-->
+<!--        android:icon="@drawable/ic_baseline_hardware_24"-->
+<!--        tools:ignore="HardcodedText" />-->
+    <item android:id="@+id/Message" android:title="Messages">
+        <menu>
+            <item android:id="@+id/message" android:title="Message"
+                android:icon="@drawable/ic_baseline_message_24"
+                tools:ignore="HardcodedText"/>
+            <item android:id="@+id/group" android:title="Group"
+                android:icon="@drawable/ic_baseline_list_24"
+                tools:ignore="HardcodedText"/>
+            <item android:id="@+id/schedule" android:title="Schedule SMS"
+                android:icon="@drawable/ic_baseline_message_24"
+                tools:ignore="HardcodedText"/>
+        </menu>
+    </item>
+
+
+<!--            <item android:id="@+id/profile" android:title="Profile"-->
+<!--        android:icon="@drawable/ic_baseline_man_24"-->
+<!--        tools:ignore="HardcodedText"/>-->
+
+
+<!--    <item android:id="@+id/animations" android:title="Animations"-->
+<!--        android:icon="@drawable/ic_baseline_animation_24"-->
+<!--        tools:ignore="HardcodedText"/>-->
+
+<!--    <item android:id="@+id/media" android:title="Multimedia"-->
+<!--        android:icon="@drawable/ic_baseline_library_music_24"-->
+<!--        tools:ignore="HardcodedText"/>-->
+    <item android:id="@+id/location" android:title="Location"
+        android:icon="@drawable/ic_baseline_location_on_24" tools:ignore = "HardcodedText" >
+        <menu>
+            <item android:id="@+id/loc" android:title="Live Location"  tools:ignore = "HardcodedText" />
+            <item android:id="@+id/googleMaps" android:title="Google Maps"
+                tools:ignore = "HardcodedText"/>
+        </menu>
+    </item>
+<!--    <item android:id="@+id/location" android:title="Location"-->
+<!--        android:icon="@drawable/ic_baseline_location_on_24" tools:ignore = "HardcodedText" />-->
+
+    <item android:id="@+id/parsing" android:title="Parsing"
+        tools:ignore="HardcodedText"/>
+<!--    <item android:id="@+id/logout" android:title="Logout"-->
+<!--        android:icon="@drawable/ic_baseline_logout_24"-->
+<!--        tools:ignore="HardcodedText"/>-->
+</menu>
+

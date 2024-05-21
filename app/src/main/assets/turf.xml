@@ -1,0 +1,47 @@
+<zturf>
+    <details>
+        <name>Football Field</name>
+        <date>2024-04-12</date>
+        <time>10:00 AM - 12:00 PM</time>
+    </details>
+    <details>
+        <name>Tennis Court</name>
+        <date>2024-04-12</date>
+        <time>2:00 PM - 4:00 PM</time>
+    </details>
+    <details>
+        <name>Basketball Court</name>
+        <date>2024-04-12</date>
+        <time>6:00 PM - 8:00 PM</time>
+    </details>
+    <details>
+        <name>Football Field</name>
+        <date>2024-04-13</date>
+        <time>10:00 AM - 12:00 PM</time>
+    </details>
+    <details>
+        <name>Tennis Court</name>
+        <date>2024-04-13</date>
+        <time>2:00 PM - 4:00 PM</time>
+    </details>
+    <details>
+        <name>Basketball Court</name>
+        <date>2024-04-13</date>
+        <time>6:00 PM - 8:00 PM</time>
+    </details>
+    <details>
+        <name>Football Field</name>
+        <date>2024-04-14</date>
+        <time>10:00 AM - 12:00 PM</time>
+    </details>
+    <details>
+        <name>Tennis Court</name>
+        <date>2024-04-14</date>
+        <time>2:00 PM - 4:00 PM</time>
+    </details>
+    <details>
+        <name>Basketball Court</name>
+        <date>2024-04-14</date>
+        <time>6:00 PM - 8:00 PM</time>
+    </details>
+</zturf>

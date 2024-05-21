@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958099744316",
+    "project_id": "zturf-ba44f",
+    "storage_bucket": "zturf-ba44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958099744316:android:09439ad527b98c89a7c539",
+        "android_client_info": {
+          "package_name": "com.example.zturf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPrOjMgv0jTXBOYN2SK-__Nxob6teySw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

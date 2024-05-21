@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:title="Open Map"
+        android:id="@+id/openMaps"
+        tools:ignore="HardcodedText"/>
+    <item android:title="Share Map"
+        android:id="@+id/shareMaps"
+        tools:ignore="HardcodedText"/>
+</menu>
