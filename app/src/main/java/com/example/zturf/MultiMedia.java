@@ -36,6 +36,11 @@ public class MultiMedia extends AppCompatActivity {
         });
 
 
+        findViewById(R.id.videoPlayer).setOnClickListener(v->{
+            startActivity(new Intent(this,VideoPlayer.class));
+        });
+
+
 
     }
 }
