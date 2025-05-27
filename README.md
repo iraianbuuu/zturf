@@ -2,7 +2,7 @@
 
 ## Description
 
-The ZTurf Application is a simple Turf Booking Application developed using Android Studio. It integrates with Firebase for Authentication for End Users. Also Included Google Maps for Location-based Services. The Application also uses many features like Menu, Notifications, Messaging Features. The Application also includes Widgets like Alert Dialog, Date and Time Picker, Menus like Popup, Context, and Option Menu.
+The ZTurf Application is a simple Turf Booking Application developed using Android Studio. It integrates with Firebase for Authentication for End Users. Also Included Google Maps for Location-based Services. The Application also uses many features like Menu, Notifications, Messaging Features. The Application also includes Widgets like Alert Dialog, Date and Time Picker, Menus like Popup, Context, and Option Menu
 
 ## Overall Application
 The Application code consists of the following activities namely:
